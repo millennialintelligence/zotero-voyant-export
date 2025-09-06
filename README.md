@@ -1,4 +1,6 @@
-# Zotero Voyant Export [UNMAINTAINED]
+# Zotero Voyant Export
+
+>David: Just FYI: This is a fork of the archived project.
 
 I no longer personally get a chance to do research very often, and so haven't
 been able to keep pace with the many changes to Zotero and the Firefox ecosystem.
